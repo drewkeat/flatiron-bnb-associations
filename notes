@@ -1,0 +1,6 @@
+Listing reservations (and guests) and reviews has many reservations
+Listing reservations (and guests) and reviews has many reviews through reservations
+Listing reservations (and guests) and reviews knows about all of its guests
+User guest and host as host has many reservations through their listing
+User guest and host as guest has many trips
+User guest and host as guest has written many reviews
